@@ -1,6 +1,6 @@
 <?php
 //Define varible to where the database file is
-$dbFile='/var/www/html/kkkk42/phpliteadmin/db/Kanwal.db';
+$dbFile='/var/www/html/kkkk42/phpliteadmin/db/sc110.db';
 try{
 //define PDO
 $db= new PDO("sqlite:$dbFile");
